@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🌱 I’m currently learning: Google IT Automation with Python 💻
-   ⚡ Fun fact: I can blow saliva bubbles! 🫧
+ 🌱 I’m currently learning: Google IT Automation with Python 💻 <br/>
+ ⚡ Fun fact: I can blow saliva bubbles! 🫧
  
