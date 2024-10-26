@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
  🌱 I’m currently learning: Google Cybersecurity 💻🔐 <br/>
  ⚡ Fun fact: I can blow saliva bubbles! 🫧 <br/>
- 💬 Inspirational quote: <br/> “You are never too old to learn more than you already know <br/> and to become able to do more than you already can. ― Isaac Asimov”
+ 💬 Inspirational quote: “You are never too old to learn more than you already know <br/> and to become able to do more than you already can. ― Isaac Asimov”
 
  
