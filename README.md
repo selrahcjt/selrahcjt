@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  🌱 I’m currently learning: Google Cybersecurity 💻🔐 <br/>
- ⚡ Fun fact: I can blow saliva bubbles! 🫧
+ ⚡ Fun fact: I can blow saliva bubbles! 🫧 <br/>
  💬 Inspirational quote: “You are never too old to learn more than you already know and to become able to do more than you already can. ― Isaac Asimov”
 
  
