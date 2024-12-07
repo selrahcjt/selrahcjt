@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
  🌱 I’m currently learning: Google Cybersecurity 🔐 <br/>
  ⚡ Fun fact: I can blow saliva bubbles 🫧 <br/>
- 💬 Inspirational quote: "Always strive to improve yourself to become better today than you were yesterday, <br/> to serve those around you and the world.” ― Roy T. Bennett
+ 💬 Inspirational quote: "Always strive to improve yourself to become better today than you were yesterday to serve those around you and the world.” ― Roy T. Bennett
 
  
