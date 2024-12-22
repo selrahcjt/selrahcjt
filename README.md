@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there! 👋
 <!--
 **selrahcjt/selrahcjt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🌱 I’m currently learning: Google Cybersecurity 🔐 <br/>
- ⚡ Fun fact: I can blow saliva bubbles 🫧 <br/>
- 📫 How to reach me: WhatsApp (+63) 976-537-8544, charles.seraspe@gmail.com <br/>
- 💬 Inspirational quote: "Always strive to improve yourself to become better today than you were yesterday to serve those around you and the world.” ― Roy T. Bennett
+🌱 **I’m currently learning:** <br/><br/>
+[![Google Cybersecurity](icons/google-cybersecurity.png)](https://www.coursera.org/google-certificates/cybersecurity-certificate)
+[![Python](icons/Python-logo-notext.png)](https://www.python.org/) <br/>
+
+---
+📚 **Portfolio/Credentials:** <br/><br/>
+[![Coursera](icons/Coursera_logo_(2020).png)](https://www.coursera.org/learner/selrahcjt) &nbsp;
+[![Credly](icons/credly.png)](https://www.credly.com/users/selrahcjt)
+
+---
+⚡ **Fun fact:** <br/><br/> I can blow saliva bubbles 🫧 <br/>
+
+---
+📫 **How to reach me:** <br/><br/>
+[![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/639765378544) &nbsp;
+[![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:charles.seraspe@gmail.com) <br/>
+
+---
+💬 Inspirational quote: <br/><br/> "Always strive to improve yourself to become better today than you were yesterday to serve those around you and the world.” ― Roy T. Bennett
