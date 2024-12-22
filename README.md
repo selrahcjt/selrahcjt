@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 **I’m currently learning:** <br/><br/>
-[![Google Cybersecurity](icons/google-cybersecurity.png)](https://www.coursera.org/google-certificates/cybersecurity-certificate)
+[![Google Cybersecurity](icons/google-cybersecurity.png)](https://www.coursera.org/google-certificates/cybersecurity-certificate) &nbsp;
 [![Python](icons/Python-logo-notext.png)](https://www.python.org/) <br/>
 
 📚 **Portfolio/Credentials:** <br/><br/>
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 [![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/639765378544) &nbsp;
 [![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:charles.seraspe@gmail.com) <br/>
 
-💬 Inspirational quote: <br/><br/> "Always strive to improve yourself to become better today than you were yesterday to serve those around you and the world.” ― Roy T. Bennett
+💬 **Inspirational quote:** "Always strive to improve yourself to become better today than you were yesterday to serve those around you and the world.” ― Roy T. Bennett
