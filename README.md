@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 🌱 **I’m currently learning:** <br/><br/>
 [![Google Cybersecurity](icons/google-cybersecurity.png)](https://www.coursera.org/google-certificates/cybersecurity-certificate) &nbsp;
-[![Python](icons/Python-logo-notext.png)](https://www.python.org/) <br/><br/>
+[![Python](icons/Python-logo-notext.png)](https://www.python.org/) &nbsp;
+[![Python](icons/Jupyter_logo.svg.png)](https://jupyter.org/) <br/><br/>
 
 📚 **Portfolio/Credentials:** <br/><br/>
 [![Coursera](icons/Coursera_logo_(2020).png)](https://www.coursera.org/learner/selrahcjt) &nbsp;
