@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 🌱 **I’m currently learning:** <br/><br/>
 [![Google Cybersecurity](icons/google-cybersecurity.png)](https://www.coursera.org/google-certificates/cybersecurity-certificate) &nbsp;
 [![Python](icons/Python-logo-notext.png)](https://www.python.org/) &nbsp;
-[![Python](icons/Jupyter_logo.svg.png)](https://jupyter.org/) <br/><br/>
+[![Python](icons/Jupyter_logo.svg.png)](https://jupyter.org/) <br/>
 
 📚 **Portfolio/Credentials:** <br/><br/>
 [![Coursera](icons/Coursera_logo_(2020).png)](https://www.coursera.org/learner/selrahcjt) &nbsp;
-[![Credly](icons/credly.png)](https://www.credly.com/users/selrahcjt) <br/><br/>
+[![Credly](icons/credly.png)](https://www.credly.com/users/selrahcjt) <br/>
 
-⚡ **Fun fact:** <br/><br/> I can blow saliva bubbles 🫧 <br/><br/>
+⚡ **Fun fact:** <br/><br/> I can blow saliva bubbles 🫧 <br/>
 
 📫 **How to reach me:** <br/><br/>
 [![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/639765378544)
-[![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:charles.seraspe@gmail.com) <br/><br/>
+[![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:charles.seraspe@gmail.com) <br/>
 
 📱 **Follow me on social media:** <br/><br/>
 [![Facebook](icons/2023_Facebook_icon.png)](https://www.facebook.com/selrahcj) &nbsp;
 [![Instagram](icons/Instagram_logo_2022.png)](https://www.instagram.com/selrahcjt/) &nbsp;
 [![X](icons/X_logo_2023.png)](https://x.com/selrahcjt) &nbsp;
-[![LinkedIn](icons/LI-In-Bug.png)](https://www.linkedin.com/in/selrahcjt/) <br/><br/>
+[![LinkedIn](icons/LI-In-Bug.png)](https://www.linkedin.com/in/selrahcjt/) <br/>
 
 💬 **Inspirational quote:** "Always strive to improve yourself to become better today than you were yesterday to serve those around you and the world.” ― Roy T. Bennett
