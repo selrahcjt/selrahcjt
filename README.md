@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 **I’m currently learning:** <br/><br/>
-[![Google Cybersecurity](icons/google-cybersecurity.png)](https://www.coursera.org/google-certificates/cybersecurity-certificate) &nbsp;
+[![Google Data Analytics](icons/google-data-analytics.png)](https://www.coursera.org/professional-certificates/google-data-analytics/paidmedia) &nbsp;
 [![Python](icons/Python-logo-notext.png)](https://www.python.org/) &nbsp;
 [![Python](icons/Jupyter_logo.svg.png)](https://jupyter.org/) <br/><br/>
 
