@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 [![X](icons/X_logo_2023.png)](https://x.com/selrahcjt) &nbsp;
 [![LinkedIn](icons/LI-In-Bug.png)](https://www.linkedin.com/in/selrahcjt/) <br/><br/>
 
-💬 **Inspirational quote:** "Always strive to improve yourself to become better today than you were yesterday to serve those around you and the world.” ― Roy T. Bennett <br/>
-    "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him." ― Colossians 3:17
+💬 **Inspirational quote:** "Always strive to improve yourself to become better today than you were yesterday to serve those around you and the world.” ― Roy T. Bennett <br/><br/>
+
+📖 **Words to live by:** "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him." ― Colossians 3:17
