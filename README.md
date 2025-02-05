@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:charles.seraspe@gmail.com) <br/><br/>
 
 📱 **Follow me on social media:** <br/><br/>
-[![Facebook](icons/2023_Facebook_icon.png)](https://www.facebook.com/selrahcj) &nbsp;
+[![Facebook](icons/2023_Facebook_icon.png)](https://www.facebook.com/selrahcjt) &nbsp;
 [![Instagram](icons/Instagram_logo_2022.png)](https://www.instagram.com/selrahcjt/) &nbsp;
 [![X](icons/X_logo_2023.png)](https://x.com/selrahcjt) &nbsp;
 [![LinkedIn](icons/LI-In-Bug.png)](https://www.linkedin.com/in/selrahcjt/) <br/><br/>
