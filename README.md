@@ -30,11 +30,10 @@ Here are some ideas to get you started:
 
 📱 **Follow me on social media:** <br/><br/>
 [![LinkedIn](icons/LI-In-Bug.png)](https://www.linkedin.com/in/selrahcjt/) &nbsp;
+[![Instagram](icons/Instagram_logo_2022.png)](https://www.instagram.com/selrahcjt/) &nbsp;
 [![X](icons/X_logo_2023.png)](https://x.com/selrahcjt) <br/><br/>
-<!--[![Instagram](icons/Instagram_logo_2022.png)](https://www.instagram.com/selrahcjt/) &nbsp;-->
+ 
 
 💬 **Inspirational quote:** "Always strive to improve yourself to become better today than you were yesterday to serve those around you and the world.” ― Roy T. Bennett <br/><br/>
 
-<!--📖 **Words to live by:** "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him." ― Colossians 3:17
-[![Facebook](icons/2023_Facebook_icon.png)](https://www.facebook.com/selrahcjt) &nbsp;
--->
+📖 **Words to live by:** "Always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ." ― Ephesians 5:20
