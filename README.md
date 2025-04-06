@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ⚡ **Fun fact:** <br/><br/> I can blow saliva bubbles 🫧 <br/><br/>
 
 📫 **How to reach me:** <br/><br/>
-<!--[![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/639765378544)-->
-[![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:charles.seraspe@gmail.com) <br/><br/>
+<!--[![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/639765378544) -->
+[![Gmail](icons/protonmail.png)](mailto:selrahcjt@proton.me) <br/><br/>
 
 📱 **Follow me on social media:** <br/><br/>
 [![LinkedIn](icons/LI-In-Bug.png)](https://www.linkedin.com/in/selrahcjt/) &nbsp;
